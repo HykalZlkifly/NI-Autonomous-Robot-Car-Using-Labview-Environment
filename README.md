@@ -8,9 +8,9 @@ To develop a robot capable of performing agricultural-related tasks using sensor
 
 ## System Architecture
 - Control System: NI LabVIEW
-- Sensors: (Add your sensors here – e.g., ultrasonic, IR, camera, etc.)
-- Actuators: DC motors / servo motors
-- Microcontroller / NI Hardware: (Specify if used)
+- Sensors: IR
+- Actuators: Planetary Geared Motors,Servo Motors
+- Microcontroller / NI Hardware: MyRIO-1900
 
 ## Key Features
 - Autonomous navigation
